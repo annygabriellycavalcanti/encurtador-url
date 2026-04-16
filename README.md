@@ -32,9 +32,10 @@ Este é um projeto full-stack de um encurtador de URLs, construído com Vue.js n
 -   **nanoid:** Para geração de IDs e códigos curtos únicos.
 -   **cors:** Para habilitar o Cross-Origin Resource Sharing.
 
-## 🛠️ Metodologia de Desenvolvimento
+### Metodologia de Desenvolvimento
 
-Este projeto utiliza o **Gitflow** como modelo de ramificação (branching model). Esta abordagem ajuda a manter a estabilidade do código em produção enquanto novas funcionalidades são desenvolvidas de forma isolada.
+Este projeto utiliza o **Gitflow** como modelo de ramificação (branching model).
+Esta abordagem ajuda a manter a estabilidade do código em produção enquanto novas funcionalidades são desenvolvidas de forma isolada.
 
 ### Estrutura de Branches:
 - **main**: Contém o código estável e pronto para produção.
